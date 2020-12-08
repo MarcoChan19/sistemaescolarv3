@@ -1,0 +1,31 @@
+.navbar
+{
+    background-color: whitesmoke;
+}
+.centrar
+{
+    text-align: center;
+}
+.box
+{
+    background-color: whitesmoke;
+}
+.title
+{
+    background-color: rgba(2, 162, 255, 0.658);
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow:5px 0px 20px 5px rgba(119, 141, 163, 0.685);
+    -moz-box-shadow:5px 5px 20px 5px rgba(5, 143, 223, 0.568);
+    filter:shadow(color=#999999, direction=135, strength=2)
+}
+.info
+{
+    color: blue;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.1em;
+}
